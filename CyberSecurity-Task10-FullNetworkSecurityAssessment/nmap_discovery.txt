@@ -1,0 +1,7 @@
+# Nmap 7.99 scan initiated Wed Aug 19 16:57:30 2026 as: /usr/lib/nmap/nmap --privileged -sn -oN nmap_discovery.txt 192.168.64.0/24
+Nmap scan report for 192.168.64.1
+Host is up (0.0012s latency).
+MAC Address: FA:4D:89:98:24:64 (Unknown)
+Nmap scan report for 192.168.64.4
+Host is up.
+# Nmap done at Wed Aug 19 16:57:33 2026 -- 256 IP addresses (2 hosts up) scanned in 2.92 seconds

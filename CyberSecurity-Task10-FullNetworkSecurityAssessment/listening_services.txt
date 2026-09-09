@@ -1,0 +1,2 @@
+Netid State  Recv-Q Send-Q                    Local Address:Port Peer Address:PortProcess
+udp   UNCONN 0      0      [fe80::a08b:a8ff:fec9:4e3b]%eth0:546          [::]:*    ino:6937 sk:1 cgroup:/system.slice/NetworkManager.service v6only:1 <->
